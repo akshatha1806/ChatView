@@ -1,0 +1,20 @@
+PODS:
+  - IHKeyboardAvoiding (4.7)
+  - IQKeyboardManagerSwift (6.5.11)
+
+DEPENDENCIES:
+  - IHKeyboardAvoiding
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - IHKeyboardAvoiding
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+
+PODFILE CHECKSUM: fdaec383a53726921c32cbcef78a51778e672aaa
+
+COCOAPODS: 1.11.3
